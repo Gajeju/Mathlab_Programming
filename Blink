@@ -6,6 +6,7 @@ tcpipObj=tcpip(IP, port);
 
 %% Open connection with your Red Pitaya
 
+
 fopen(tcpipObj);
 tcpipObj.Terminator = 'CR/LF';
 
