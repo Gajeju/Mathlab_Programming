@@ -10,6 +10,7 @@ subplot(1,2,1); plot(t,xa);
 axis([ti tf -2 2]); grid on;
 title('3.12 (a)');
 
+
 subplot(1,2,2); plot(t,xb);
 axis([ti tf -2 2]); grid on;
 title('3.12 (b)');
